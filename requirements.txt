@@ -5,6 +5,7 @@ django-rest-framework==0.1.0
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.3.1
 pipenv==2024.4.1
+virtualenv==20.29.2
 absl-py==2.1.0
 annotated-types==0.7.0
 asgiref==3.8.1
@@ -70,6 +71,5 @@ tzdata==2025.1
 ultralytics==8.3.71
 ultralytics-thop==2.0.14
 urllib3==2.3.0
-virtualenv==20.29.2
 wandb==0.19.6
 Werkzeug==3.1.3
